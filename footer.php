@@ -48,6 +48,7 @@
                                 <li><i class="ti-location-pin"></i><strong>address</strong> Plot No-5 Kh No-28/4 Mohit Nagar Kakrola New Delhi 110078
                             Shop Name-Dilshad Automobile </li>
                                 <li><i class="ti-mobile"></i><strong>phone</strong>7683091746</li>
+                                <li><i class="ti-email"></i><strong>email</strong>info@dilshadautomobiles.com</li>
                             </ul>
                         </div>
                     </div>
