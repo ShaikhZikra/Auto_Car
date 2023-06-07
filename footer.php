@@ -45,10 +45,9 @@
                                 <div class="dlab-separator bg-primary"></div>
                             </div>
                             <ul>
-                                <li><i class="ti-location-pin"></i><strong>address</strong> demo address #8901 Marmora Road Chi Minh City, Vietnam </li>
-                                <li><i class="ti-mobile"></i><strong>phone</strong>0800-123456 (24/7 Support Line)</li>
-                                <li><i class="ti-printer"></i><strong>FAX</strong>(123) 123-4567</li>
-                                <li><i class="ti-email"></i><strong>email</strong>info@demo.com</li>
+                                <li><i class="ti-location-pin"></i><strong>address</strong> Plot No-5 Kh No-28/4 Mohit Nagar Kakrola New Delhi 110078
+                            Shop Name-Dilshad Automobile </li>
+                                <li><i class="ti-mobile"></i><strong>phone</strong>7683091746</li>
                             </ul>
                         </div>
                     </div>
@@ -63,7 +62,7 @@
 						<span>© Copyright 2022</span>
 					</div>
 					<div class="col-lg-4 col-md-4 text-center"> 
-						<span> Design With <i class="ti-heart text-primary heart"></i> By<a href="https://www.dexignlab.com/" target="_blank">DexignLab</a> </span> 
+						<span> Designed and Developed by Zarsco </span> 
 					</div>
 					<div class="col-lg-4 col-md-4 text-right"> 
 						<a href="about-1.html"> About Us</a>
